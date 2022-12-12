@@ -1,0 +1,24 @@
+/// Controllers ///
+
+<img src="https://img.icons8.com/stickers/100/null/controller.png"/>
+
+<img src="https://img.icons8.com/dusk/64/null/controller.png"/>
+
+<img src="https://img.icons8.com/nolan/64/controller.png"/>
+
+
+/// Color picker ///
+
+<img src="https://img.icons8.com/stickers/100/null/rgb-circle-2.png"/>
+
+<img src="https://img.icons8.com/color/48/null/rgb-circle-2--v1.png"/>
+
+<img src="https://img.icons8.com/bubbles/50/null/rgb-circle-2.png"/>
+
+
+/// Learn ///
+
+<img src="https://img.icons8.com/stickers/100/null/saving-book.png"/>
+
+
+
